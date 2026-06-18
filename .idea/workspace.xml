@@ -5,14 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d31ad5a2-a6a1-42cf-9894-279928a35a81" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/com/betrybe/aula02/Ex01.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/com/betrybe/aula02/Ex02.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/com/betrybe/aula02/Ex03.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/com/betrybe/aula02/Ex04.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/META-INF/Aula01.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/META-INF/Aula01.kotlin_module" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/com/betrybe/aula01/AppKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/com/betrybe/aula01/AppKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/com/betrybe/aula01/Ex03Kt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/com/betrybe/aula01/Ex03Kt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -150,7 +143,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
-    "git-widget-placeholder": "aula02",
+    "git-widget-placeholder": "updating-readme",
     "junie.onboarding.icon.badge.shown": "true",
     "kotlin-language-version-configured": "true",
     "node.js.detected.package.eslint": "true",
