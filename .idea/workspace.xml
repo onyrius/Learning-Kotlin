@@ -4,7 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d31ad5a2-a6a1-42cf-9894-279928a35a81" name="Changes" comment="" />
+    <list default="true" id="d31ad5a2-a6a1-42cf-9894-279928a35a81" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/com/betrybe/aula02/Ex01.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/com/betrybe/aula02/Ex02.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/com/betrybe/aula02/Ex03.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/com/betrybe/aula02/Ex04.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/META-INF/Aula01.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/META-INF/Aula01.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/betrybe/aula01/AppKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/com/betrybe/aula01/AppKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/betrybe/aula01/Ex03Kt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/com/betrybe/aula01/Ex03Kt.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -53,67 +62,67 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
+      <entry key="MS100" value="1.764685897304337E-36" />
+      <entry key="MS500" value="7.06860124713748E-8" />
+      <entry key="S2" value="0.016308637201394163" />
+      <entry key="S5" value="0.19949202618986586" />
+      <entry key="S10" value="0.5607501680217766" />
+      <entry key="S30" value="2.070238616835199" />
+      <entry key="S60" value="3.483269193308042" />
+      <entry key="M2" value="5.096484461510271" />
+      <entry key="M5" value="12.341140494659419" />
+      <entry key="M10" value="32.48488509771471" />
+      <entry key="M15" value="53.32690075464616" />
+      <entry key="M30" value="102.49754240072878" />
+      <entry key="H1" value="162.7479103076845" />
+      <entry key="H2" value="233.3062572380334" />
+      <entry key="H4" value="302.488709550069" />
+      <entry key="D1" value="399.7173067716601" />
+      <entry key="W1" value="422.0700335996145" />
+    </decayedCancelled>
+    <decayedSelected>
       <entry key="MS100" value="1.0" />
       <entry key="MS500" value="1.0" />
       <entry key="S2" value="1.0" />
-      <entry key="S5" value="1.0" />
-      <entry key="S10" value="1.0" />
-      <entry key="S30" value="1.0" />
-      <entry key="S60" value="1.000000000058351" />
-      <entry key="M2" value="1.000013262593671" />
-      <entry key="M5" value="1.0231806544267734" />
-      <entry key="M10" value="1.3264736485432058" />
-      <entry key="M15" value="2.0409381617916598" />
-      <entry key="M30" value="8.875529896531699" />
-      <entry key="H1" value="34.618343915472686" />
-      <entry key="H2" value="76.05686705061292" />
-      <entry key="H4" value="114.79968979732371" />
-      <entry key="D1" value="163.0224807562418" />
-      <entry key="W1" value="173.23392776325926" />
-    </decayedCancelled>
-    <decayedSelected>
-      <entry key="MS100" value="0.0" />
-      <entry key="MS500" value="0.0" />
-      <entry key="S2" value="0.0" />
-      <entry key="S5" value="0.0" />
-      <entry key="S10" value="8.756039772200726E-195" />
-      <entry key="S30" value="2.064148680327259E-65" />
-      <entry key="S60" value="4.71407917128529E-33" />
-      <entry key="M2" value="8.059059679327986E-17" />
-      <entry key="M5" value="5.53017730086394E-7" />
-      <entry key="M10" value="0.0015809680087162158" />
-      <entry key="M15" value="0.027875600675531794" />
-      <entry key="M30" value="0.577512889389124" />
-      <entry key="H1" value="2.7918380074965636" />
-      <entry key="H2" value="6.224660478159047" />
-      <entry key="H4" value="9.32526064176395" />
-      <entry key="D1" value="13.081390741217664" />
-      <entry key="W1" value="13.864873770091489" />
+      <entry key="S5" value="1.0000000000000182" />
+      <entry key="S10" value="1.0000001348072247" />
+      <entry key="S30" value="1.0051751749633002" />
+      <entry key="S60" value="1.0789989129594753" />
+      <entry key="M2" value="1.3934879866766658" />
+      <entry key="M5" value="2.81555726361604" />
+      <entry key="M10" value="5.377914484957229" />
+      <entry key="M15" value="7.706879932192801" />
+      <entry key="M30" value="13.068090924926711" />
+      <entry key="H1" value="19.53539419141312" />
+      <entry key="H2" value="26.61826990158172" />
+      <entry key="H4" value="33.097360047072954" />
+      <entry key="D1" value="41.7310057632732" />
+      <entry key="W1" value="43.66215293857685" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="2.33142019013648E-11" />
-      <entry key="MS500" value="0.0074735012350927695" />
-      <entry key="S2" value="0.2940228125727412" />
-      <entry key="S5" value="0.6128474890651837" />
-      <entry key="S10" value="0.7828457632670587" />
-      <entry key="S30" value="0.9216345246882116" />
-      <entry key="S60" value="0.9600179814983842" />
-      <entry key="M2" value="0.9798183348606001" />
-      <entry key="M5" value="1.015053070445694" />
-      <entry key="M10" value="1.3239368314665219" />
-      <entry key="M15" value="2.0656584936322693" />
-      <entry key="M30" value="9.447578381509599" />
-      <entry key="H1" value="37.39962394446535" />
-      <entry key="H2" value="82.27001958255555" />
-      <entry key="H4" value="124.11631641956937" />
-      <entry key="D1" value="176.1018397893798" />
-      <entry key="W1" value="187.09849343502498" />
+      <entry key="MS100" value="1.3429678419393726E-8" />
+      <entry key="MS500" value="0.026644847901418727" />
+      <entry key="S2" value="0.41333849638070524" />
+      <entry key="S5" value="0.8552287005307612" />
+      <entry key="S10" value="1.3359908163612952" />
+      <entry key="S30" value="2.9516231405707622" />
+      <entry key="S60" value="4.4734726264886495" />
+      <entry key="M2" value="6.419479720495126" />
+      <entry key="M5" value="15.08995486461781" />
+      <entry key="M10" value="37.784084472527375" />
+      <entry key="M15" value="60.948315340432636" />
+      <entry key="M30" value="115.4813428137211" />
+      <entry key="H1" value="182.21579143000113" />
+      <entry key="H2" value="259.87723777392796" />
+      <entry key="H4" value="335.5563085793157" />
+      <entry key="D1" value="441.44199370460206" />
+      <entry key="W1" value="465.7312403071385" />
     </decayedShown>
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7,
-  "fromUser": false
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7,
+  &quot;fromUser&quot;: false
+}</component>
   <component name="ProjectId" id="3FJbV8Yeigp9fMHWz8p0cvx2vvE" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -127,9 +136,13 @@
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "Gradle.Aula01 [:com.betrybe.aula01.AppKt.main()].executor": "Run",
     "Kotlin.AppKt.executor": "Run",
+    "Kotlin.Ex01Kt (1).executor": "Run",
     "Kotlin.Ex01Kt.executor": "Run",
+    "Kotlin.Ex02Kt (1).executor": "Run",
     "Kotlin.Ex02Kt.executor": "Run",
+    "Kotlin.Ex03Kt (1).executor": "Run",
     "Kotlin.Ex03Kt.executor": "Run",
+    "Kotlin.Ex04Kt.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
@@ -137,7 +150,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "aula02",
     "junie.onboarding.icon.badge.shown": "true",
     "kotlin-language-version-configured": "true",
     "node.js.detected.package.eslint": "true",
@@ -158,23 +171,23 @@
       <recent name="com.betrybe.aula01" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.Ex03Kt">
-    <configuration name="AppKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.betrybe.aula01.AppKt" />
+  <component name="RunManager" selected="Kotlin.Ex04Kt">
+    <configuration name="Ex01Kt (1)" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.betrybe.aula02.Ex01Kt" />
       <module name="Aula01.main" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex01Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.betrybe.aula01.Ex01Kt" />
+    <configuration name="Ex02Kt (1)" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.betrybe.aula02.Ex02Kt" />
       <module name="Aula01.main" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex02Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.betrybe.aula01.Ex02Kt" />
+    <configuration name="Ex03Kt (1)" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.betrybe.aula02.Ex03Kt" />
       <module name="Aula01.main" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -187,12 +200,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Ex04Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.betrybe.aula02.Ex04Kt" />
+      <module name="Aula01.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.Ex04Kt" />
+        <item itemvalue="Kotlin.Ex03Kt (1)" />
+        <item itemvalue="Kotlin.Ex02Kt (1)" />
+        <item itemvalue="Kotlin.Ex01Kt (1)" />
         <item itemvalue="Kotlin.Ex03Kt" />
-        <item itemvalue="Kotlin.Ex02Kt" />
-        <item itemvalue="Kotlin.Ex01Kt" />
-        <item itemvalue="Kotlin.AppKt" />
       </list>
     </recent_temporary>
   </component>
