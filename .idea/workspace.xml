@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d31ad5a2-a6a1-42cf-9894-279928a35a81" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Aula01" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Aula01" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+        <option value="Kotlin File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0" />
+      <entry key="S2" value="1.0" />
+      <entry key="S5" value="1.0" />
+      <entry key="S10" value="1.0" />
+      <entry key="S30" value="1.0" />
+      <entry key="S60" value="1.000000000058351" />
+      <entry key="M2" value="1.000013262593671" />
+      <entry key="M5" value="1.0231806544267734" />
+      <entry key="M10" value="1.3264736485432058" />
+      <entry key="M15" value="2.0409381617916598" />
+      <entry key="M30" value="8.875529896531699" />
+      <entry key="H1" value="34.618343915472686" />
+      <entry key="H2" value="76.05686705061292" />
+      <entry key="H4" value="114.79968979732371" />
+      <entry key="D1" value="163.0224807562418" />
+      <entry key="W1" value="173.23392776325926" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="0.0" />
+      <entry key="S10" value="8.756039772200726E-195" />
+      <entry key="S30" value="2.064148680327259E-65" />
+      <entry key="S60" value="4.71407917128529E-33" />
+      <entry key="M2" value="8.059059679327986E-17" />
+      <entry key="M5" value="5.53017730086394E-7" />
+      <entry key="M10" value="0.0015809680087162158" />
+      <entry key="M15" value="0.027875600675531794" />
+      <entry key="M30" value="0.577512889389124" />
+      <entry key="H1" value="2.7918380074965636" />
+      <entry key="H2" value="6.224660478159047" />
+      <entry key="H4" value="9.32526064176395" />
+      <entry key="D1" value="13.081390741217664" />
+      <entry key="W1" value="13.864873770091489" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="2.33142019013648E-11" />
+      <entry key="MS500" value="0.0074735012350927695" />
+      <entry key="S2" value="0.2940228125727412" />
+      <entry key="S5" value="0.6128474890651837" />
+      <entry key="S10" value="0.7828457632670587" />
+      <entry key="S30" value="0.9216345246882116" />
+      <entry key="S60" value="0.9600179814983842" />
+      <entry key="M2" value="0.9798183348606001" />
+      <entry key="M5" value="1.015053070445694" />
+      <entry key="M10" value="1.3239368314665219" />
+      <entry key="M15" value="2.0656584936322693" />
+      <entry key="M30" value="9.447578381509599" />
+      <entry key="H1" value="37.39962394446535" />
+      <entry key="H2" value="82.27001958255555" />
+      <entry key="H4" value="124.11631641956937" />
+      <entry key="D1" value="176.1018397893798" />
+      <entry key="W1" value="187.09849343502498" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7,
+  "fromUser": false
+}]]></component>
+  <component name="ProjectId" id="3FJbV8Yeigp9fMHWz8p0cvx2vvE" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Gradle.Aula01 [:com.betrybe.aula01.AppKt.main()].executor": "Run",
+    "Kotlin.AppKt.executor": "Run",
+    "Kotlin.Ex01Kt.executor": "Run",
+    "Kotlin.Ex02Kt.executor": "Run",
+    "Kotlin.Ex03Kt.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "main",
+    "junie.onboarding.icon.badge.shown": "true",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "reference.settingsdialog.project.gradle",
+    "to.speed.mode.migration.done": "true",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="K2MoveDeclarationsDialog.RECENT_PACKAGE_KEY">
+      <recent name="com.betrybe.aula01" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Kotlin.Ex03Kt">
+    <configuration name="AppKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.betrybe.aula01.AppKt" />
+      <module name="Aula01.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ex01Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.betrybe.aula01.Ex01Kt" />
+      <module name="Aula01.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ex02Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.betrybe.aula01.Ex02Kt" />
+      <module name="Aula01.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ex03Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.betrybe.aula01.Ex03Kt" />
+      <module name="Aula01.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.Ex03Kt" />
+        <item itemvalue="Kotlin.Ex02Kt" />
+        <item itemvalue="Kotlin.Ex01Kt" />
+        <item itemvalue="Kotlin.AppKt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-37e91769500f-intellij.indexing.shared.core-IU-261.25134.95" />
+        <option value="bundled-js-predefined-d6986cc7102b-31caf2ab9e3c-JavaScript-IU-261.25134.95" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d31ad5a2-a6a1-42cf-9894-279928a35a81" name="Changes" comment="" />
+      <created>1781796153270</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1781796153270</updated>
+      <workItem from="1781796154585" duration="17196000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
