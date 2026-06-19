@@ -5,7 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d31ad5a2-a6a1-42cf-9894-279928a35a81" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/com/betrybe/aula03/Ex01.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/META-INF/Aula01.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/META-INF/Aula01.kotlin_module" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,61 +58,61 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.764685897304337E-36" />
-      <entry key="MS500" value="7.06860124713748E-8" />
-      <entry key="S2" value="0.016308637201394163" />
-      <entry key="S5" value="0.19949202618986586" />
-      <entry key="S10" value="0.5607501680217766" />
-      <entry key="S30" value="2.070238616835199" />
-      <entry key="S60" value="3.483269193308042" />
-      <entry key="M2" value="5.096484461510271" />
-      <entry key="M5" value="12.341140494659419" />
-      <entry key="M10" value="32.48488509771471" />
-      <entry key="M15" value="53.32690075464616" />
-      <entry key="M30" value="102.49754240072878" />
-      <entry key="H1" value="162.7479103076845" />
-      <entry key="H2" value="233.3062572380334" />
-      <entry key="H4" value="302.488709550069" />
-      <entry key="D1" value="399.7173067716601" />
-      <entry key="W1" value="422.0700335996145" />
+      <entry key="MS100" value="1.0000047620031316" />
+      <entry key="MS500" value="1.0862184761479474" />
+      <entry key="S2" value="1.5971399553876742" />
+      <entry key="S5" value="2.193075418771052" />
+      <entry key="S10" value="2.880089321099734" />
+      <entry key="S30" value="4.092959826573048" />
+      <entry key="S60" value="5.404970697747941" />
+      <entry key="M2" value="9.746280196257551" />
+      <entry key="M5" value="26.47405983228479" />
+      <entry key="M10" value="50.63511610731307" />
+      <entry key="M15" value="72.64620325631296" />
+      <entry key="M30" value="127.60154529815789" />
+      <entry key="H1" value="199.06184336888253" />
+      <entry key="H2" value="281.385514504728" />
+      <entry key="H4" value="360.85270349707304" />
+      <entry key="D1" value="472.63218726200483" />
+      <entry key="W1" value="498.4541996374427" />
     </decayedCancelled>
     <decayedSelected>
-      <entry key="MS100" value="1.0" />
-      <entry key="MS500" value="1.0" />
-      <entry key="S2" value="1.0" />
-      <entry key="S5" value="1.0000000000000182" />
-      <entry key="S10" value="1.0000001348072247" />
-      <entry key="S30" value="1.0051751749633002" />
-      <entry key="S60" value="1.0789989129594753" />
-      <entry key="M2" value="1.3934879866766658" />
-      <entry key="M5" value="2.81555726361604" />
-      <entry key="M10" value="5.377914484957229" />
-      <entry key="M15" value="7.706879932192801" />
-      <entry key="M30" value="13.068090924926711" />
-      <entry key="H1" value="19.53539419141312" />
-      <entry key="H2" value="26.61826990158172" />
-      <entry key="H4" value="33.097360047072954" />
-      <entry key="D1" value="41.7310057632732" />
-      <entry key="W1" value="43.66215293857685" />
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="3.456470185349471E-121" />
+      <entry key="S2" value="7.667578020365893E-31" />
+      <entry key="S5" value="8.992166942612933E-13" />
+      <entry key="S10" value="9.497643034283873E-7" />
+      <entry key="S30" value="0.010986014450995335" />
+      <entry key="S60" value="0.14029475891548948" />
+      <entry key="M2" value="0.6728157164537584" />
+      <entry key="M5" value="2.756342410226661" />
+      <entry key="M10" value="5.99790660856828" />
+      <entry key="M15" value="8.832573464810016" />
+      <entry key="M30" value="15.456665567126704" />
+      <entry key="H1" value="23.594501160984578" />
+      <entry key="H2" value="32.264700524158606" />
+      <entry key="H4" value="40.021118805654694" />
+      <entry key="D1" value="50.29647683169281" />
+      <entry key="W1" value="52.59724757839439" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="1.3429678419393726E-8" />
-      <entry key="MS500" value="0.026644847901418727" />
-      <entry key="S2" value="0.41333849638070524" />
-      <entry key="S5" value="0.8552287005307612" />
-      <entry key="S10" value="1.3359908163612952" />
-      <entry key="S30" value="2.9516231405707622" />
-      <entry key="S60" value="4.4734726264886495" />
-      <entry key="M2" value="6.419479720495126" />
-      <entry key="M5" value="15.08995486461781" />
-      <entry key="M10" value="37.784084472527375" />
-      <entry key="M15" value="60.948315340432636" />
-      <entry key="M30" value="115.4813428137211" />
-      <entry key="H1" value="182.21579143000113" />
-      <entry key="H2" value="259.87723777392796" />
-      <entry key="H4" value="335.5563085793157" />
-      <entry key="D1" value="441.44199370460206" />
-      <entry key="W1" value="465.7312403071385" />
+      <entry key="MS100" value="0.5433701474232228" />
+      <entry key="MS500" value="0.9622151666886307" />
+      <entry key="S2" value="1.5516260662656054" />
+      <entry key="S5" value="2.170818657677577" />
+      <entry key="S10" value="2.8673783062053326" />
+      <entry key="S30" value="4.09483312333622" />
+      <entry key="S60" value="5.52372555184648" />
+      <entry key="M2" value="10.36029581110586" />
+      <entry key="M5" value="29.10709003529542" />
+      <entry key="M10" value="56.49743380828408" />
+      <entry key="M15" value="81.34700547171859" />
+      <entry key="M30" value="142.94277030241605" />
+      <entry key="H1" value="222.56755913641823" />
+      <entry key="H2" value="313.5894029667278" />
+      <entry key="H4" value="400.8361172264756" />
+      <entry key="D1" value="522.9207665006592" />
+      <entry key="W1" value="551.0502672306444" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -139,11 +142,12 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
-    "git-widget-placeholder": "updating-readme",
+    "git-widget-placeholder": "aula03",
     "junie.onboarding.icon.badge.shown": "true",
     "kotlin-language-version-configured": "true",
     "node.js.detected.package.eslint": "true",
@@ -164,9 +168,16 @@
       <recent name="com.betrybe.aula01" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.Ex04Kt">
+  <component name="RunManager" selected="Kotlin.Ex01Kt">
     <configuration name="Ex01Kt (1)" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.betrybe.aula02.Ex01Kt" />
+      <module name="Aula01.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ex01Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.betrybe.aula03.Ex01Kt" />
       <module name="Aula01.main" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -186,13 +197,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex03Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.betrybe.aula01.Ex03Kt" />
-      <module name="Aula01.main" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Ex04Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.betrybe.aula02.Ex04Kt" />
       <module name="Aula01.main" />
@@ -202,11 +206,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.Ex01Kt" />
         <item itemvalue="Kotlin.Ex04Kt" />
         <item itemvalue="Kotlin.Ex03Kt (1)" />
         <item itemvalue="Kotlin.Ex02Kt (1)" />
         <item itemvalue="Kotlin.Ex01Kt (1)" />
-        <item itemvalue="Kotlin.Ex03Kt" />
       </list>
     </recent_temporary>
   </component>
@@ -226,6 +230,7 @@
       <option name="presentableId" value="Default" />
       <updated>1781796153270</updated>
       <workItem from="1781796154585" duration="17196000" />
+      <workItem from="1781878149704" duration="4047000" />
     </task>
     <servers />
   </component>
